@@ -12,3 +12,6 @@ https://www.canva.com/design/DAHBKYOIv7o/DiPKWY39wjq-ewn_C1rElg/edit?utm_content
 ##aula de excel usando ensinamentos SOMASE CONT.SE
  
 ## realizar tres perguntas sobre transporte
+<img width="2363" height="716" alt="image" src="https://github.com/user-attachments/assets/f8b313eb-1e94-4b95-b6ed-03c536941854" />
+
+
