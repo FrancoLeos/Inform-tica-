@@ -9,9 +9,9 @@ https://www.canva.com/design/DAHBKYOIv7o/DiPKWY39wjq-ewn_C1rElg/edit?utm_content
 [despesa_funcao1.xlsx](https://github.com/user-attachments/files/25957136/despesa_funcao1.xlsx)
 <img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/56b7e3fb-5886-444c-993c-1455223c8730" />
 
-##aula de excel usando ensinamentos SOMASE CONT.SE
+##aula de excel usando ensinamentos SOMASE CONT.SE - (no dia não estavamos conseguindo colar o arquivo excel e nem a foto, a professora foi avisada)
  
-
+##Atividade realizada em sala de aula para calcular receita
 https://docs.google.com/spreadsheets/d/1PNvHHD63pxnQ12kNAmtl-8wnrjaMrVTX/edit?usp=drive_link&rtpof=true&sd=true
 <img width="975" height="579" alt="image" src="https://github.com/user-attachments/assets/98699985-72d7-497d-9844-2154cc30aa09" />
 
